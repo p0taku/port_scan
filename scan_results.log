@@ -1,0 +1,48 @@
+{"target": "192.168.2.1", "port": 80, "status": "open", "banner": "HTTP/1.0 200 OK Se", "timestamp": 1729561586.0838945}
+{"target": "192.168.2.1", "port": 53, "status": "open", "banner": "", "timestamp": 1729561589.9306095}
+{"target": "192.168.2.1", "port": 1990, "status": "open", "banner": "HTTP1.1 404 Not Fo", "timestamp": 1729561589.9306095}
+{"target": "192.168.2.1", "port": 1900, "status": "open", "banner": "HTTP/1.1 200 OK CA", "timestamp": 1729561590.1935978}
+{"target": "192.168.2.1", "port": 22, "status": "open", "banner": "SSH-2.0-dropbear_2", "timestamp": 1729561591.5079784}
+{"target": "192.168.2.1", "port": 515, "status": "open", "banner": "", "timestamp": 1729561592.1873233}
+{"target": "192.168.2.1", "port": 110, "status": "open", "banner": "", "timestamp": 1729561594.4453685}
+{"target": "192.168.2.1", "port": 23, "status": "open", "banner": "RT-AC68U login: ", "timestamp": 1729561594.5457451}
+{"target": "192.168.2.1", "port": 3838, "status": "open", "banner": "", "timestamp": 1729561597.2783718}
+{"target": "192.168.2.1", "port": 3394, "status": "open", "banner": "", "timestamp": 1729561599.5371385}
+{"target": "192.168.2.1", "port": 25, "status": "open", "banner": "", "timestamp": 1729561601.795572}
+{"target": "192.168.2.1", "port": 5473, "status": "open", "banner": "", "timestamp": 1729561602.047379}
+{"target": "192.168.2.1", "port": 8443, "status": "open", "banner": "HTTP/1.0 200 OK Se", "timestamp": 1729561604.5187182}
+{"target": "192.168.2.1", "port": 7788, "status": "open", "banner": "", "timestamp": 1729561607.553663}
+{"target": "192.168.2.1", "port": 9100, "status": "open", "banner": "", "timestamp": 1729561610.2679763}
+{"target": "220.133.126.82", "port": 89, "status": "open", "banner": "HTTP/1.1 200 OK Da", "timestamp": 1732696359.8140292}
+{"target": "220.133.126.82", "port": 554, "status": "open", "banner": "RTSP/1.0 200 OK Ke", "timestamp": 1732696360.4425724}
+{"target": "220.133.126.82", "port": 25, "status": "open", "banner": "", "timestamp": 1732696363.615709}
+{"target": "220.133.126.82", "port": 110, "status": "open", "banner": "", "timestamp": 1732696365.8867445}
+{"target": "220.133.126.82", "port": 988, "status": "open", "banner": "HTTP/1.1 400 Bad R", "timestamp": 1732696366.3485692}
+{"target": "220.133.126.82", "port": 89, "status": "open", "banner": "HTTP/1.1 200 OK Da", "timestamp": 1732696390.5773358}
+{"target": "220.133.126.82", "port": 554, "status": "open", "banner": "RTSP/1.0 200 OK Ke", "timestamp": 1732696391.1064947}
+{"target": "220.133.126.82", "port": 25, "status": "open", "banner": "", "timestamp": 1732696394.2976103}
+{"target": "220.133.126.82", "port": 110, "status": "open", "banner": "", "timestamp": 1732696396.584875}
+{"target": "220.133.126.82", "port": 988, "status": "open", "banner": "HTTP/1.1 400 Bad R", "timestamp": 1732696397.1166046}
+{"target": "192.168.2.1", "port": 80, "status": "open", "banner": "HTTP/1.0 200 OK Se", "timestamp": 1733554588.5382357}
+{"target": "192.168.2.1", "port": 53, "status": "open", "banner": "", "timestamp": 1733554592.4237142}
+{"target": "192.168.2.1", "port": 1900, "status": "open", "banner": "HTTP/1.1 200 OK CA", "timestamp": 1733554592.573898}
+{"target": "192.168.2.1", "port": 22, "status": "open", "banner": "SSH-2.0-dropbear_2", "timestamp": 1733554593.8598588}
+{"target": "192.168.2.1", "port": 515, "status": "open", "banner": "", "timestamp": 1733554594.6724818}
+{"target": "192.168.2.1", "port": 1990, "status": "open", "banner": "HTTP1.1 404 Not Fo", "timestamp": 1733554594.6724818}
+{"target": "192.168.2.1", "port": 23, "status": "open", "banner": "RT-AC68U login: ", "timestamp": 1733554596.8881383}
+{"target": "192.168.2.1", "port": 3838, "status": "open", "banner": "", "timestamp": 1733554599.4427667}
+{"target": "192.168.2.1", "port": 3394, "status": "open", "banner": "", "timestamp": 1733554601.710487}
+{"target": "192.168.2.1", "port": 5473, "status": "open", "banner": "", "timestamp": 1733554602.6226044}
+{"target": "192.168.2.1", "port": 8443, "status": "open", "banner": "HTTP/1.0 200 OK Se", "timestamp": 1733554606.3582006}
+{"target": "192.168.2.1", "port": 7788, "status": "open", "banner": "", "timestamp": 1733554609.4312317}
+{"target": "192.168.2.1", "port": 9100, "status": "open", "banner": "", "timestamp": 1733554611.8947043}
+{"target": "192.168.2.242", "port": 1900, "status": "open", "banner": "HTTP/1.1 200 OK CA", "timestamp": 1733557310.3512647}
+{"target": "192.168.2.242", "port": 5555, "status": "open", "banner": "", "timestamp": 1733557316.6513677}
+{"target": "192.168.2.242", "port": 6466, "status": "open", "banner": "", "timestamp": 1733557318.9125488}
+{"target": "192.168.2.242", "port": 6467, "status": "open", "banner": "", "timestamp": 1733557319.0431948}
+{"target": "192.168.2.242", "port": 8008, "status": "open", "banner": "HTTP/1.1 404 Not F", "timestamp": 1733557322.0302281}
+{"target": "192.168.2.242", "port": 8009, "status": "open", "banner": "\u0015\u0003\u0001\u0000\u0002\u0002F", "timestamp": 1733557322.143335}
+{"target": "192.168.2.242", "port": 8443, "status": "open", "banner": "HTTP/1.1 404 Not F", "timestamp": 1733557324.1710637}
+{"target": "192.168.2.242", "port": 9000, "status": "open", "banner": "\u0015\u0003\u0001\u0000\u0002\u0002F", "timestamp": 1733557325.6090572}
+{"target": "192.168.2.242", "port": 110, "status": "open", "banner": "", "timestamp": 1733628587.0712368}
+{"target": "192.168.2.242", "port": 25, "status": "open", "banner": "", "timestamp": 1733628597.5909889}
